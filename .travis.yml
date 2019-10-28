@@ -12,5 +12,4 @@ script:
 - sonar-scanner
 - cd Test
 - ant build
-- sonar-scanner
 
