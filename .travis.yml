@@ -11,5 +11,5 @@ addons:
 script:
 - cd Test
 - ant build
- sonar-scanner
+- sonar-scanner
 
