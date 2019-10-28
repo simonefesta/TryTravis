@@ -9,6 +9,7 @@ addons:
    secure: "b49a8486df1c21342998f882a94c924108582cc5"
 
 script:
+- sonar-scanner
 - cd Test
 - ant build
 - sonar-scanner
