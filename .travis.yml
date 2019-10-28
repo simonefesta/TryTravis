@@ -4,9 +4,9 @@ jdk:
 
 addons: 
  sonarcloud:
-  organization: simonefesta
+  organization: "simonefesta"
   token:
-   secure: b49a8486df1c21342998f882a94c924108582cc5
+   secure: "b49a8486df1c21342998f882a94c924108582cc5"
 
 script:
 - cd Test
